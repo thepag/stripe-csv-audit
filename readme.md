@@ -1,3 +1,3 @@
 # Stripe CSV Audit
 
-Revenue metrics from your CSV file.
+Revenue metrics from your Stripe payments CSV file.
