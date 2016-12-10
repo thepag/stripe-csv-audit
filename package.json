@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/thepag/stripe-csv-audit/issues"
   },
-  "homepage": "https://github.com/thepag/stripe-csv-audit#readme"
+  "homepage": "https://github.com/thepag/stripe-csv-audit#readme",
+  "dependencies": {
+    "csv-parse": "^1.1.7"
+  }
 }
