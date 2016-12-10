@@ -1,0 +1,28 @@
+{
+  "name": "stripe-csv-audit",
+  "version": "0.0.1",
+  "description": "Revenue metrics from your Stripe payments CSV file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test stuff.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thepag/stripe-csv-audit.git"
+  },
+  "keywords": [
+    "stripe",
+    "payments",
+    "csv",
+    "revenue",
+    "statistics",
+    "metrics",
+    "audit"
+  ],
+  "author": "Mark J Panaghiston <markp@happyworm.com> (http://happyworm.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thepag/stripe-csv-audit/issues"
+  },
+  "homepage": "https://github.com/thepag/stripe-csv-audit#readme"
+}
