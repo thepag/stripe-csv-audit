@@ -27,5 +27,10 @@
   "homepage": "https://github.com/thepag/stripe-csv-audit#readme",
   "dependencies": {
     "csv-parse": "^1.1.7"
+  },
+  "devDependencies": {
+    "eslint": "^3.12.0",
+    "eslint-config-airbnb-base": "^10.0.1",
+    "eslint-plugin-import": "^2.2.0"
   }
 }
