@@ -4,7 +4,7 @@
   "description": "Revenue metrics from your Stripe payments CSV file.",
   "main": "index.js",
   "scripts": {
-    "test": "test stuff.js"
+    "test": "node index.js examples/sample.csv"
   },
   "repository": {
     "type": "git",
